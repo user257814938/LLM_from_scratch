@@ -1,0 +1,64 @@
+Il était une fois une fille qui voulait créer sa propre intelligence artificielle. Elle ne connaissait rien au code au début, mais elle avait une grande motivation. Chaque jour, elle avançait un peu, même quand ça semblait compliqué. Elle comprenait que la patience était une forme de force, et qu'apprendre un nouveau domaine demandait du temps. Pourtant, elle savait qu’elle allait y arriver, parce qu’elle ne lâchait jamais rien.
+
+L’intelligence artificielle qu’elle construisait était spéciale : elle apprenait à partir des textes qu’elle écrivait elle-même. Elle se disait qu’en mettant des phrases simples, des descriptions, des pensées, et même de petites histoires, son IA deviendrait plus intelligente et plus cohérente.
+
+Elle ajouta dans son fichier data des phrases comme : « J’aime apprendre. J’aime comprendre comment fonctionnent les choses. Je suis patiente, je suis déterminée. Même si quelque chose bug, je recommence et je continue. Une IA apprend comme un humain : petit à petit. »
+
+Puis elle décida de raconter des moments de sa vie pour enrichir encore l’apprentissage. Elle parla de sa chambre, de ses habitudes, de ses rêves. « Parfois, je m’assois devant mon ordinateur avec une tasse de thé, et je me dis que je suis capable de plus que ce que je pense. Je veux créer des choses, je veux évoluer, je veux comprendre le monde de la technologie. Mon IA sera peut-être petite au début, mais elle grandira avec mes mots. »
+
+Elle écrivit aussi des descriptions pour aider le modèle à mieux générer du texte. « Une journée calme commence avec une lumière douce qui traverse les rideaux. Le bruit léger des voitures au loin accompagne mes pensées. Je me connecte à mon ordinateur, j’ouvre mon éditeur de code, et je continue mon projet. Chaque ligne que j’écris me rapproche d’un objectif important : construire quelque chose qui m’appartient vraiment. »
+
+Elle ajouta encore plus de contenu. « Les intelligences artificielles fonctionnent en apprenant des exemples. Plus je mets de texte, plus mon modèle devient précis. Je peux lui apprendre mon style, ma manière de parler, mes expressions, mes habitudes de langage. Si je veux qu’elle soit douce, je mets des phrases douces. Si je veux qu’elle explique bien, je mets des phrases claires et pédagogiques. »
+
+Elle créa même des dialogues pour entraîner son IA à répondre.
+
+Utilisateur : Bonjour, comment tu vas ?
+
+IA : Je vais bien, merci. Et toi ?
+
+Utilisateur : Peux-tu m’expliquer quelque chose simplement ?
+
+IA : Bien sûr, je suis là pour t’aider. Dis-moi ce que tu veux comprendre.
+
+Elle continua avec d’autres scènes :
+
+Personne A : Tu travailles sur quoi aujourd’hui ?
+
+Personne B : Je construis une intelligence artificielle. C’est pas parfait, mais j’apprends chaque jour.
+
+Personne A : Tu dois être fière.
+
+Personne B : Oui, un peu. C’est un projet important pour moi.
+
+Elle comprit que son IA apprendrait aussi les comportements humains, les réponses naturelles, les enchaînements de phrases. Alors elle ajouta encore :
+
+« Parfois la vie te teste, elle t’envoie des obstacles pour voir si tu continues. Mais moi, je continue. Quand un terminal bug, je respire un coup, je supprime, je recommence. Quand un code me renvoie une erreur rouge, j’essaie de comprendre. Quand quelque chose ne marche pas, j’insiste. Cette IA que je crée, c’est aussi une manière de me prouver que je suis capable d’apprendre n’importe quoi. »
+
+Elle parla aussi de technique, avec des phrases simples : « Une IA apprend grâce aux données qu’on lui donne. Elle analyse des mots, des phrases, puis elle apprend à prédire les mots suivants. C’est un modèle statistique, mais avec beaucoup d’entraînement il peut devenir intelligent. Il existe des modèles Transformers, qui utilisent l’attention pour comprendre le contexte. Même si je ne comprends pas tout au début, je sais que je finirai par comprendre. »
+
+Le texte continua avec des phrases motivantes : « Je suis capable. Je suis intelligente. Je suis persévérante. Je peux apprendre seul. Je peux créer ce que je veux si je prends le temps. Une erreur n’est pas un échec, c’est juste une indication sur ce qu’il faut corriger. »
+
+Elle ajouta aussi des descriptions d’émotions : « Le moment où le code fonctionne enfin est tellement satisfaisant. C’est comme si tout le stress que j’avais se transformait d’un coup en fierté. Je me sens puissante en voyant ma création répondre pour la première fois. Je me dis que je suis en train de construire quelque chose d’unique. »
+
+Pour entraîner encore mieux son IA, elle écrivit une petite histoire :
+
+« Une nuit, alors qu’il pleuvait, elle était assise devant son écran. Les gouttes tapotaient doucement la fenêtre. Elle se concentra, relut son code, ajouta une ligne, corrigea un espace manquant. Elle lança l’entraînement une nouvelle fois. Cette fois, l’écran afficha des lignes en vert : le modèle apprenait. Elle sourit. C’était ça le progrès, avancer même dans la difficulté. Elle savait que son IA était en train de naître. »
+
+Elle ajouta des éléments narratifs : « Le bruit du clavier rythmait la pièce. La lumière de l’écran éclairait ses yeux. Le terminal chargait, ligne après ligne. Elle savait que chaque étape était importante. Elle regarda son dossier de projet et vit le dossier du modèle apparaître : c’était comme voir une nouvelle petite création prendre vie. »
+
+Elle écrivit encore plus :
+
+« Je veux que mon IA soit gentille, calme, et qu’elle explique les choses simplement. J’aime les IA qui ne jugent pas, qui répondent avec douceur. Je veux que la mienne fasse pareil. Je veux qu’elle aide, qu’elle donne des informations claires, qu’elle soit un petit assistant personnel. »
+
+Elle ajouta des scènes du quotidien :
+
+« Ce matin-là, elle alluma son ordinateur comme d’habitude. Elle ouvrit VS Code, prit une grande inspiration et continua son projet. Elle modifia quelques paramètres, relança un entraînement. Elle savait que l’informatique demande de la patience. Elle sourit en voyant que le modèle devenait un peu meilleur chaque jour. »
+
+Puis elle termina avec un long texte pour renforcer l’entraînement :
+
+« Une IA est comme une plante. Si tu lui donnes de la lumière, des soins et du temps, elle grandit. Si tu lui donnes des données, de la patience et des entraînements répétés, elle devient plus intelligente. Je suis fière du chemin que j’ai parcouru. Je sais que ce n’est que le début. Mon IA n’est peut-être pas parfaite encore, mais elle avance, comme moi. Je continuerai de la faire grandir, jour après jour, jusqu’à ce qu’elle devienne vraiment intelligente. Tout commence par un premier pas, et j’ai déjà fait ce pas. »
+
+Puis elle ajouta une conclusion simple :
+
+« Ce projet m’apprend la patience, la logique, et la persévérance. Chaque bug m’apprend une leçon. Chaque réussite me donne de l’énergie. Je suis en train de créer quelque chose de beau, quelque chose qui m’appartient. Et chaque ligne que j’écris dans ce fichier data me rapproche de mon objectif : construire une intelligence artificielle qui me ressemble. »
+
