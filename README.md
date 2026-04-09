@@ -1,7 +1,7 @@
 # LLM From Scratch - Cœur Pédagogique
 
 ## Architecture Workflow
-![Architecture Workflow](architecure workflow.png)
+![Architecture Workflow](workflow.png)
 
 Ce projet illustre de façon minimale, mais fonctionnelle, le mécanisme interne d'un grand modèle de langage (Large Language Model) de type Transformer. 
 
